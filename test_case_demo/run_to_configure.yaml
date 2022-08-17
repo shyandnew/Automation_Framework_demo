@@ -1,0 +1,20 @@
+#用例运行配置
+
+pytest:
+  #运行显示详情设置
+  - -vs
+  #运行case选择，如果为空为运行全部用例
+  - ./pytest_test/test_case.py
+  #多线程运行（分布式运行）, -n是命令，2为启动的线程数
+  #- -n 2
+  #分组运行
+  - -m set_case or smoke
+  #用例失败重跑， 等于号后面等于重跑次数
+  - --reruns=2
+  #清除allure旧报告，如需保留旧报告，该项为空
+  - -clean-alluredir
+
+#allure报告生成命令，如不需生成报告，该项为空
+os:
+  allure generate ./temp -o ./report --clean
+

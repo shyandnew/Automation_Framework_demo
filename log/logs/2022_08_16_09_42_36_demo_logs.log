@@ -1,0 +1,64 @@
+2022-08-16 09:42:36,376 test_case.py INFO test_01 ----------用例开始----------
+2022-08-16 09:42:36,376 baes_action.py INFO __init__ 打开谷歌浏览器
+2022-08-16 09:42:36,376 baes_action.py INFO __init__ 打开谷歌浏览器
+2022-08-16 09:42:38,999 baes_action.py INFO get_url 打开网址：http://localhost/phpwind/
+2022-08-16 09:42:39,143 baes_action.py INFO get_url 打开网址：http://localhost/phpwind/
+2022-08-16 09:42:40,542 baes_action.py INFO click 点击('css selector', '[class="btn btn_big btn_submit"]')元素
+2022-08-16 09:42:40,542 baes_action.py INFO locator 定位('css selector', '[class="btn btn_big btn_submit"]')元素
+2022-08-16 09:42:40,675 baes_action.py INFO click 点击('css selector', '[class="btn btn_big btn_submit"]')元素
+2022-08-16 09:42:40,675 baes_action.py INFO locator 定位('css selector', '[class="btn btn_big btn_submit"]')元素
+2022-08-16 09:42:41,841 baes_action.py INFO wait_base 等待3秒
+2022-08-16 09:42:41,929 baes_action.py INFO wait_base 等待3秒
+2022-08-16 09:42:44,842 baes_action.py INFO input_value 定位('css selector', '[id="J_u_login_username"]')元素，输入内容:shy
+2022-08-16 09:42:44,842 baes_action.py INFO locator 定位('css selector', '[id="J_u_login_username"]')元素
+2022-08-16 09:42:44,924 baes_action.py INFO input_value 定位('css selector', '[id="J_u_login_password"]')元素，输入内容:12345556
+2022-08-16 09:42:44,924 baes_action.py INFO locator 定位('css selector', '[id="J_u_login_password"]')元素
+2022-08-16 09:42:44,929 baes_action.py INFO input_value 定位('css selector', '[id="J_u_login_username"]')元素，输入内容:shy
+2022-08-16 09:42:44,929 baes_action.py INFO locator 定位('css selector', '[id="J_u_login_username"]')元素
+2022-08-16 09:42:45,025 baes_action.py INFO input_value 定位('css selector', '[id="J_u_login_password"]')元素，输入内容:123456
+2022-08-16 09:42:45,026 baes_action.py INFO locator 定位('css selector', '[id="J_u_login_password"]')元素
+2022-08-16 09:42:45,092 baes_action.py INFO click 点击('css selector', '[class="btn btn_big btn_submit mr20"]')元素
+2022-08-16 09:42:45,093 baes_action.py INFO locator 定位('css selector', '[class="btn btn_big btn_submit mr20"]')元素
+2022-08-16 09:42:45,225 baes_action.py INFO wait_base 等待8秒
+2022-08-16 09:42:45,259 baes_action.py INFO click 点击('css selector', '[class="btn btn_big btn_submit mr20"]')元素
+2022-08-16 09:42:45,260 baes_action.py INFO locator 定位('css selector', '[class="btn btn_big btn_submit mr20"]')元素
+2022-08-16 09:42:45,357 baes_action.py INFO wait_base 等待8秒
+2022-08-16 09:42:53,226 baes_action.py INFO text 获取('css selector', '[class="username"]')元素文本
+2022-08-16 09:42:53,226 baes_action.py INFO locator 定位('css selector', '[class="username"]')元素
+2022-08-16 09:42:53,240 test_case.py INFO test_02 ----------用例结束----------
+2022-08-16 09:42:53,358 baes_action.py INFO text 获取('css selector', '[class="username"]')元素文本
+2022-08-16 09:42:53,358 baes_action.py INFO locator 定位('css selector', '[class="username"]')元素
+2022-08-16 09:42:53,385 test_case.py INFO test_01 ----------用例结束----------
+2022-08-16 09:42:55,288 test_case.py INFO test_02 ----------用例开始----------
+2022-08-16 09:42:55,289 baes_action.py INFO __init__ 打开谷歌浏览器
+2022-08-16 09:42:55,433 test_case.py INFO test_02 ----------用例开始----------
+2022-08-16 09:42:55,433 baes_action.py INFO __init__ 打开谷歌浏览器
+2022-08-16 09:43:00,718 baes_action.py INFO get_url 打开网址：http://localhost/phpwind/
+2022-08-16 09:43:00,953 baes_action.py INFO get_url 打开网址：http://localhost/phpwind/
+2022-08-16 09:43:02,596 baes_action.py INFO click 点击('css selector', '[class="btn btn_big btn_submit"]')元素
+2022-08-16 09:43:02,596 baes_action.py INFO locator 定位('css selector', '[class="btn btn_big btn_submit"]')元素
+2022-08-16 09:43:02,789 baes_action.py INFO click 点击('css selector', '[class="btn btn_big btn_submit"]')元素
+2022-08-16 09:43:02,790 baes_action.py INFO locator 定位('css selector', '[class="btn btn_big btn_submit"]')元素
+2022-08-16 09:43:04,020 baes_action.py INFO wait_base 等待3秒
+2022-08-16 09:43:04,173 baes_action.py INFO wait_base 等待3秒
+2022-08-16 09:43:07,020 baes_action.py INFO input_value 定位('css selector', '[id="J_u_login_username"]')元素，输入内容:王五
+2022-08-16 09:43:07,020 baes_action.py INFO locator 定位('css selector', '[id="J_u_login_username"]')元素
+2022-08-16 09:43:07,074 baes_action.py INFO input_value 定位('css selector', '[id="J_u_login_password"]')元素，输入内容:456
+2022-08-16 09:43:07,074 baes_action.py INFO locator 定位('css selector', '[id="J_u_login_password"]')元素
+2022-08-16 09:43:07,168 baes_action.py INFO click 点击('css selector', '[class="btn btn_big btn_submit mr20"]')元素
+2022-08-16 09:43:07,169 baes_action.py INFO locator 定位('css selector', '[class="btn btn_big btn_submit mr20"]')元素
+2022-08-16 09:43:07,173 baes_action.py INFO input_value 定位('css selector', '[id="J_u_login_username"]')元素，输入内容:李四
+
+2022-08-16 09:43:07,173 baes_action.py INFO locator 定位('css selector', '[id="J_u_login_username"]')元素
+2022-08-16 09:43:07,253 baes_action.py INFO wait_base 等待8秒
+2022-08-16 09:43:07,269 baes_action.py INFO input_value 定位('css selector', '[id="J_u_login_password"]')元素，输入内容:789
+2022-08-16 09:43:07,270 baes_action.py INFO locator 定位('css selector', '[id="J_u_login_password"]')元素
+2022-08-16 09:43:07,348 baes_action.py INFO click 点击('css selector', '[class="btn btn_big btn_submit mr20"]')元素
+2022-08-16 09:43:07,349 baes_action.py INFO locator 定位('css selector', '[class="btn btn_big btn_submit mr20"]')元素
+2022-08-16 09:43:07,409 baes_action.py INFO wait_base 等待8秒
+2022-08-16 09:43:15,254 baes_action.py INFO text 获取('css selector', '[class="username"]')元素文本
+2022-08-16 09:43:15,254 baes_action.py INFO locator 定位('css selector', '[class="username"]')元素
+2022-08-16 09:43:15,266 test_case.py INFO test_02 ----------用例结束----------
+2022-08-16 09:43:15,410 baes_action.py INFO text 获取('css selector', '[class="username"]')元素文本
+2022-08-16 09:43:15,410 baes_action.py INFO locator 定位('css selector', '[class="username"]')元素
+2022-08-16 09:43:15,423 test_case.py INFO test_02 ----------用例结束----------

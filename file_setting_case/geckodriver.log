@@ -1,0 +1,38 @@
+1660198449643	geckodriver	INFO	Listening on 127.0.0.1:16772
+1660198451624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "16773" "-no-remote" "-profile" "C:\\Users\\My\\AppData\\Local\\Temp\\rust_mozprofilec8OOZw"
+1660198452609	Marionette	INFO	Marionette enabled
+1660198452617	Marionette	INFO	Listening on port 16778
+WebDriver BiDi listening on ws://localhost:16773
+1660198452857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\My\\AppData\\Local\\Temp\\rust_mozprofilec8OOZw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:16773/devtools/browser/4045b509-c36e-4690-bd6c-3ab37c928a5d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+1660198471977	Marionette	INFO	Stopped listening on port 16778
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660198537810	geckodriver	INFO	Listening on 127.0.0.1:16847
+1660198539798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "16848" "-no-remote" "-profile" "C:\\Users\\My\\AppData\\Local\\Temp\\rust_mozprofileh7mYpy"
+1660198540292	Marionette	INFO	Marionette enabled
+1660198540299	Marionette	INFO	Listening on port 16853
+WebDriver BiDi listening on ws://localhost:16848
+1660198540516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\My\\AppData\\Local\\Temp\\rust_mozprofileh7mYpy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:16848/devtools/browser/c2dfb1ac-406d-45c7-8c01-522f3492e86d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660200189990	Marionette	INFO	Stopped listening on port 16853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "16908" "-no-remote" "-profile" "C:\\Users\\My\\AppData\\Local\\Temp\\rust_mozprofile2D5tpm"
+1660198577034	Marionette	INFO	Marionette enabled
+1660198577042	Marionette	INFO	Listening on port 16913
+WebDriver BiDi listening on ws://localhost:16908
+1660198577260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\My\\AppData\\Local\\Temp\\rust_mozprofile2D5tpm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:16908/devtools/browser/0eab2339-3e9b-43f4-aad3-fd88e484f688
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660200188291	Marionette	INFO	Stopped listening on port 16913
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

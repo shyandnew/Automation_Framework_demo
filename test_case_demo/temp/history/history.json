@@ -1,0 +1,619 @@
+{
+  "6d56ec144008f745b7170038c54696fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "4491d01fc20859d5",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/28/allure/#testresult/4491d01fc20859d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660542083862,
+        "stop" : 1660542092850,
+        "duration" : 8988
+      }
+    }, {
+      "uid" : "684f0625321e03ad",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/27/allure/#testresult/684f0625321e03ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660542083862,
+        "stop" : 1660542092850,
+        "duration" : 8988
+      }
+    }, {
+      "uid" : "f970597a5fe39f34",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/26/allure/#testresult/f970597a5fe39f34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660542083862,
+        "stop" : 1660542092850,
+        "duration" : 8988
+      }
+    }, {
+      "uid" : "54d4a535cb1b377d",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/25/allure/#testresult/54d4a535cb1b377d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660542083862,
+        "stop" : 1660542092850,
+        "duration" : 8988
+      }
+    }, {
+      "uid" : "23c1cfc1608c8594",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/24/allure/#testresult/23c1cfc1608c8594",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660542083862,
+        "stop" : 1660542092850,
+        "duration" : 8988
+      }
+    }, {
+      "uid" : "4bb841fbfdde9ba7",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/23/allure/#testresult/4bb841fbfdde9ba7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660542083862,
+        "stop" : 1660542092850,
+        "duration" : 8988
+      }
+    }, {
+      "uid" : "d9fbc972906ffd3b",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/22/allure/#testresult/d9fbc972906ffd3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660542083862,
+        "stop" : 1660542092850,
+        "duration" : 8988
+      }
+    } ]
+  },
+  "bf7d0a49f1d24a57968e2c7956f6a379" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "93c8e358491bed2f",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/28/allure/#testresult/93c8e358491bed2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610537016,
+        "stop" : 1660610556705,
+        "duration" : 19689
+      }
+    }, {
+      "uid" : "6ce175cd144d827f",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/27/allure/#testresult/6ce175cd144d827f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610537016,
+        "stop" : 1660610556705,
+        "duration" : 19689
+      }
+    }, {
+      "uid" : "f22c8dc752c88422",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/26/allure/#testresult/f22c8dc752c88422",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610537016,
+        "stop" : 1660610556705,
+        "duration" : 19689
+      }
+    }, {
+      "uid" : "64362cde3c8b1f7a",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/25/allure/#testresult/64362cde3c8b1f7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610537016,
+        "stop" : 1660610556705,
+        "duration" : 19689
+      }
+    }, {
+      "uid" : "3b20154c408e2e92",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/24/allure/#testresult/3b20154c408e2e92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610537016,
+        "stop" : 1660610556705,
+        "duration" : 19689
+      }
+    }, {
+      "uid" : "4eff65cc61683365",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/23/allure/#testresult/4eff65cc61683365",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_CONNECTION_REFUSED\n  (Session info: chrome=104.0.5112.81)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x015A6463+2188387]\n\tOrdinal0 [0x0153E461+1762401]\n\tOrdinal0 [0x01453D78+802168]\n\tOrdinal0 [0x014504E8+787688]\n\tOrdinal0 [0x0144654D+746829]\n\tOrdinal0 [0x0144710A+749834]\n\tOrdinal0 [0x0144675A+747354]\n\tOrdinal0 [0x01445D3F+744767]\n\tOrdinal0 [0x01444C28+740392]\n\tOrdinal0 [0x014450FD+741629]\n\tOrdinal0 [0x01455544+808260]\n\tOrdinal0 [0x014AD2DD+1168093]\n\tOrdinal0 [0x0149C7DC+1099740]\n\tOrdinal0 [0x014ACC22+1166370]\n\tOrdinal0 [0x0149C5F6+1099254]\n\tOrdinal0 [0x01476BE0+945120]\n\tOrdinal0 [0x01477AD6+948950]\n\tGetHandleVerifier [0x018471F2+2712546]\n\tGetHandleVerifier [0x0183886D+2652765]\n\tGetHandleVerifier [0x0163002A+520730]\n\tGetHandleVerifier [0x0162EE06+516086]\n\tOrdinal0 [0x0154468B+1787531]\n\tOrdinal0 [0x01548E88+1805960]\n\tOrdinal0 [0x01548F75+1806197]\n\tOrdinal0 [0x01551DF1+1842673]\n\tBaseThreadInitThunk [0x76900179+25]\n\tRtlGetAppContainerNamedObjectPath [0x77B0662D+237]\n\tRtlGetAppContainerNamedObjectPath [0x77B065FD+189]",
+      "time" : {
+        "start" : 1660610244979,
+        "stop" : 1660610251322,
+        "duration" : 6343
+      }
+    }, {
+      "uid" : "1f4b9e84cbe64adc",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/22/allure/#testresult/1f4b9e84cbe64adc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660547359647,
+        "stop" : 1660547377928,
+        "duration" : 18281
+      }
+    } ]
+  },
+  "de53e00b41728d9dc301e585b029b497" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "bf3ce054b02686e3",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/28/allure/#testresult/bf3ce054b02686e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610556713,
+        "stop" : 1660610575577,
+        "duration" : 18864
+      }
+    }, {
+      "uid" : "fa5ff90f02ce83a9",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/27/allure/#testresult/fa5ff90f02ce83a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610556713,
+        "stop" : 1660610575577,
+        "duration" : 18864
+      }
+    }, {
+      "uid" : "de365477a2c6212",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/26/allure/#testresult/de365477a2c6212",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610556713,
+        "stop" : 1660610575577,
+        "duration" : 18864
+      }
+    }, {
+      "uid" : "ed319938d96ab620",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/25/allure/#testresult/ed319938d96ab620",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610556713,
+        "stop" : 1660610575577,
+        "duration" : 18864
+      }
+    }, {
+      "uid" : "35e6f8bcfaec7934",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/24/allure/#testresult/35e6f8bcfaec7934",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610556713,
+        "stop" : 1660610575577,
+        "duration" : 18864
+      }
+    }, {
+      "uid" : "dd192b723eec62b8",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/23/allure/#testresult/dd192b723eec62b8",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_CONNECTION_REFUSED\n  (Session info: chrome=104.0.5112.81)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x015A6463+2188387]\n\tOrdinal0 [0x0153E461+1762401]\n\tOrdinal0 [0x01453D78+802168]\n\tOrdinal0 [0x014504E8+787688]\n\tOrdinal0 [0x0144654D+746829]\n\tOrdinal0 [0x0144710A+749834]\n\tOrdinal0 [0x0144675A+747354]\n\tOrdinal0 [0x01445D3F+744767]\n\tOrdinal0 [0x01444C28+740392]\n\tOrdinal0 [0x014450FD+741629]\n\tOrdinal0 [0x01455544+808260]\n\tOrdinal0 [0x014AD2DD+1168093]\n\tOrdinal0 [0x0149C7DC+1099740]\n\tOrdinal0 [0x014ACC22+1166370]\n\tOrdinal0 [0x0149C5F6+1099254]\n\tOrdinal0 [0x01476BE0+945120]\n\tOrdinal0 [0x01477AD6+948950]\n\tGetHandleVerifier [0x018471F2+2712546]\n\tGetHandleVerifier [0x0183886D+2652765]\n\tGetHandleVerifier [0x0163002A+520730]\n\tGetHandleVerifier [0x0162EE06+516086]\n\tOrdinal0 [0x0154468B+1787531]\n\tOrdinal0 [0x01548E88+1805960]\n\tOrdinal0 [0x01548F75+1806197]\n\tOrdinal0 [0x01551DF1+1842673]\n\tBaseThreadInitThunk [0x76900179+25]\n\tRtlGetAppContainerNamedObjectPath [0x77B0662D+237]\n\tRtlGetAppContainerNamedObjectPath [0x77B065FD+189]",
+      "time" : {
+        "start" : 1660610268370,
+        "stop" : 1660610273911,
+        "duration" : 5541
+      }
+    }, {
+      "uid" : "1d5414e3bc2ee7d8",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/22/allure/#testresult/1d5414e3bc2ee7d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660547377941,
+        "stop" : 1660547396459,
+        "duration" : 18518
+      }
+    } ]
+  },
+  "58e01dc6e64084ba1017a2cb4f9abad4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "ca53f040a6d65974",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/28/allure/#testresult/ca53f040a6d65974",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610537016,
+        "stop" : 1660610555895,
+        "duration" : 18879
+      }
+    }, {
+      "uid" : "68dc4c1a0510ef07",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/27/allure/#testresult/68dc4c1a0510ef07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610537016,
+        "stop" : 1660610555895,
+        "duration" : 18879
+      }
+    }, {
+      "uid" : "c011bc5b90c48ede",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/26/allure/#testresult/c011bc5b90c48ede",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610537016,
+        "stop" : 1660610555895,
+        "duration" : 18879
+      }
+    }, {
+      "uid" : "34ac93ccd33b1bc1",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/25/allure/#testresult/34ac93ccd33b1bc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610537016,
+        "stop" : 1660610555895,
+        "duration" : 18879
+      }
+    }, {
+      "uid" : "80542da331b4b504",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/24/allure/#testresult/80542da331b4b504",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610537016,
+        "stop" : 1660610555895,
+        "duration" : 18879
+      }
+    }, {
+      "uid" : "a4dfacf5e7cade60",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/23/allure/#testresult/a4dfacf5e7cade60",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_CONNECTION_REFUSED\n  (Session info: chrome=104.0.5112.81)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x015A6463+2188387]\n\tOrdinal0 [0x0153E461+1762401]\n\tOrdinal0 [0x01453D78+802168]\n\tOrdinal0 [0x014504E8+787688]\n\tOrdinal0 [0x0144654D+746829]\n\tOrdinal0 [0x0144710A+749834]\n\tOrdinal0 [0x0144675A+747354]\n\tOrdinal0 [0x01445D3F+744767]\n\tOrdinal0 [0x01444C28+740392]\n\tOrdinal0 [0x014450FD+741629]\n\tOrdinal0 [0x01455544+808260]\n\tOrdinal0 [0x014AD2DD+1168093]\n\tOrdinal0 [0x0149C7DC+1099740]\n\tOrdinal0 [0x014ACC22+1166370]\n\tOrdinal0 [0x0149C5F6+1099254]\n\tOrdinal0 [0x01476BE0+945120]\n\tOrdinal0 [0x01477AD6+948950]\n\tGetHandleVerifier [0x018471F2+2712546]\n\tGetHandleVerifier [0x0183886D+2652765]\n\tGetHandleVerifier [0x0163002A+520730]\n\tGetHandleVerifier [0x0162EE06+516086]\n\tOrdinal0 [0x0154468B+1787531]\n\tOrdinal0 [0x01548E88+1805960]\n\tOrdinal0 [0x01548F75+1806197]\n\tOrdinal0 [0x01551DF1+1842673]\n\tBaseThreadInitThunk [0x76900179+25]\n\tRtlGetAppContainerNamedObjectPath [0x77B0662D+237]\n\tRtlGetAppContainerNamedObjectPath [0x77B065FD+189]",
+      "time" : {
+        "start" : 1660610244988,
+        "stop" : 1660610251433,
+        "duration" : 6445
+      }
+    }, {
+      "uid" : "da384d4eed67b041",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/22/allure/#testresult/da384d4eed67b041",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660547359647,
+        "stop" : 1660547377965,
+        "duration" : 18318
+      }
+    } ]
+  },
+  "4ae6a0c644d8440c8d9139aa0808c9bb" : {
+    "statistic" : {
+      "failed" : 7,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "7bf839d0bc04afeb",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/28/allure/#testresult/7bf839d0bc04afeb",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542092880,
+        "stop" : 1660542098674,
+        "duration" : 5794
+      }
+    }, {
+      "uid" : "78d5ffec09392c34",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/27/allure/#testresult/78d5ffec09392c34",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542092880,
+        "stop" : 1660542098674,
+        "duration" : 5794
+      }
+    }, {
+      "uid" : "97fb4865789262fe",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/26/allure/#testresult/97fb4865789262fe",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542092880,
+        "stop" : 1660542098674,
+        "duration" : 5794
+      }
+    }, {
+      "uid" : "72f435e5d1e7773f",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/25/allure/#testresult/72f435e5d1e7773f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542092880,
+        "stop" : 1660542098674,
+        "duration" : 5794
+      }
+    }, {
+      "uid" : "73b1a46610d53a67",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/24/allure/#testresult/73b1a46610d53a67",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542092880,
+        "stop" : 1660542098674,
+        "duration" : 5794
+      }
+    }, {
+      "uid" : "83aad60d5267d68d",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/23/allure/#testresult/83aad60d5267d68d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542092880,
+        "stop" : 1660542098674,
+        "duration" : 5794
+      }
+    }, {
+      "uid" : "84606bada83022b7",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/22/allure/#testresult/84606bada83022b7",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542092880,
+        "stop" : 1660542098674,
+        "duration" : 5794
+      }
+    } ]
+  },
+  "7c9640b6a45495e82b97de9251fa8936" : {
+    "statistic" : {
+      "failed" : 7,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "63300f30ad9a2f57",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/28/allure/#testresult/63300f30ad9a2f57",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542105246,
+        "stop" : 1660542113195,
+        "duration" : 7949
+      }
+    }, {
+      "uid" : "350cccd4b402b148",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/27/allure/#testresult/350cccd4b402b148",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542105246,
+        "stop" : 1660542113195,
+        "duration" : 7949
+      }
+    }, {
+      "uid" : "ba8987d9fe710156",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/26/allure/#testresult/ba8987d9fe710156",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542105246,
+        "stop" : 1660542113195,
+        "duration" : 7949
+      }
+    }, {
+      "uid" : "c82a9924d70eb917",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/25/allure/#testresult/c82a9924d70eb917",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542105246,
+        "stop" : 1660542113195,
+        "duration" : 7949
+      }
+    }, {
+      "uid" : "5b01ef331408b308",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/24/allure/#testresult/5b01ef331408b308",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542105246,
+        "stop" : 1660542113195,
+        "duration" : 7949
+      }
+    }, {
+      "uid" : "aebe70539a1b8c72",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/23/allure/#testresult/aebe70539a1b8c72",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542105246,
+        "stop" : 1660542113195,
+        "duration" : 7949
+      }
+    }, {
+      "uid" : "8c1fc04a4ffa0a30",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/22/allure/#testresult/8c1fc04a4ffa0a30",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542105246,
+        "stop" : 1660542113195,
+        "duration" : 7949
+      }
+    } ]
+  },
+  "d3b628139af0fc583d85f63828cb675e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "dc9c96f593a445bd",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/28/allure/#testresult/dc9c96f593a445bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610555904,
+        "stop" : 1660610573944,
+        "duration" : 18040
+      }
+    }, {
+      "uid" : "e4788c554ed2c6e3",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/27/allure/#testresult/e4788c554ed2c6e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610555904,
+        "stop" : 1660610573944,
+        "duration" : 18040
+      }
+    }, {
+      "uid" : "9a9322cfce0068e6",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/26/allure/#testresult/9a9322cfce0068e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610555904,
+        "stop" : 1660610573944,
+        "duration" : 18040
+      }
+    }, {
+      "uid" : "f1c36efbc5be9305",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/25/allure/#testresult/f1c36efbc5be9305",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610555904,
+        "stop" : 1660610573944,
+        "duration" : 18040
+      }
+    }, {
+      "uid" : "4ef09f9878710ea8",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/24/allure/#testresult/4ef09f9878710ea8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660610555904,
+        "stop" : 1660610573944,
+        "duration" : 18040
+      }
+    }, {
+      "uid" : "a6ae525f0d543c8c",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/23/allure/#testresult/a6ae525f0d543c8c",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_CONNECTION_REFUSED\n  (Session info: chrome=104.0.5112.81)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x015A6463+2188387]\n\tOrdinal0 [0x0153E461+1762401]\n\tOrdinal0 [0x01453D78+802168]\n\tOrdinal0 [0x014504E8+787688]\n\tOrdinal0 [0x0144654D+746829]\n\tOrdinal0 [0x0144710A+749834]\n\tOrdinal0 [0x0144675A+747354]\n\tOrdinal0 [0x01445D3F+744767]\n\tOrdinal0 [0x01444C28+740392]\n\tOrdinal0 [0x014450FD+741629]\n\tOrdinal0 [0x01455544+808260]\n\tOrdinal0 [0x014AD2DD+1168093]\n\tOrdinal0 [0x0149C7DC+1099740]\n\tOrdinal0 [0x014ACC22+1166370]\n\tOrdinal0 [0x0149C5F6+1099254]\n\tOrdinal0 [0x01476BE0+945120]\n\tOrdinal0 [0x01477AD6+948950]\n\tGetHandleVerifier [0x018471F2+2712546]\n\tGetHandleVerifier [0x0183886D+2652765]\n\tGetHandleVerifier [0x0163002A+520730]\n\tGetHandleVerifier [0x0162EE06+516086]\n\tOrdinal0 [0x0154468B+1787531]\n\tOrdinal0 [0x01548E88+1805960]\n\tOrdinal0 [0x01548F75+1806197]\n\tOrdinal0 [0x01551DF1+1842673]\n\tBaseThreadInitThunk [0x76900179+25]\n\tRtlGetAppContainerNamedObjectPath [0x77B0662D+237]\n\tRtlGetAppContainerNamedObjectPath [0x77B065FD+189]",
+      "time" : {
+        "start" : 1660610268631,
+        "stop" : 1660610275250,
+        "duration" : 6619
+      }
+    }, {
+      "uid" : "563a47d92f0e76c9",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/22/allure/#testresult/563a47d92f0e76c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1660547378049,
+        "stop" : 1660547396567,
+        "duration" : 18518
+      }
+    } ]
+  },
+  "214d9b6cf7e816287bce9a127668fdac" : {
+    "statistic" : {
+      "failed" : 7,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "e56c256a93a02b46",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/28/allure/#testresult/e56c256a93a02b46",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542098763,
+        "stop" : 1660542105230,
+        "duration" : 6467
+      }
+    }, {
+      "uid" : "6c49d8397b949fc1",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/27/allure/#testresult/6c49d8397b949fc1",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542098763,
+        "stop" : 1660542105230,
+        "duration" : 6467
+      }
+    }, {
+      "uid" : "8397eaf40cf2c19b",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/26/allure/#testresult/8397eaf40cf2c19b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542098763,
+        "stop" : 1660542105230,
+        "duration" : 6467
+      }
+    }, {
+      "uid" : "39beac9f5226bf3a",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/25/allure/#testresult/39beac9f5226bf3a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542098763,
+        "stop" : 1660542105230,
+        "duration" : 6467
+      }
+    }, {
+      "uid" : "14f99adf00dfc78c",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/24/allure/#testresult/14f99adf00dfc78c",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542098763,
+        "stop" : 1660542105230,
+        "duration" : 6467
+      }
+    }, {
+      "uid" : "1c049023c81112e3",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/23/allure/#testresult/1c049023c81112e3",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542098763,
+        "stop" : 1660542105230,
+        "duration" : 6467
+      }
+    }, {
+      "uid" : "31b9be6a484e8f87",
+      "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/22/allure/#testresult/31b9be6a484e8f87",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败!断言详情：None=预期结果是这个\nassert False",
+      "time" : {
+        "start" : 1660542098763,
+        "stop" : 1660542105230,
+        "duration" : 6467
+      }
+    } ]
+  }
+}

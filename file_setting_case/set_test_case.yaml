@@ -1,0 +1,167 @@
+#默认运行环境
+-
+ Environment: &environment
+  Browser: 0
+  url: https://www.baidu.com/
+
+
+#测试用例
+-
+  testcasename: 这是第一个测试用例
+  data:
+    wait1: 2
+    input:
+     - 测试一下
+     - !!python/tuple
+      - "css selector"
+      - '[id="kw"]'
+    wait2: 2
+    text:
+      - !!python/tuple ["css selector", '[id="su"]']
+      - value
+    click: !!python/tuple ["css selector", '[id="su"]']
+
+  Expected:
+    result: 百度一下
+
+-
+  testcasename: 这是第二个测试用例
+  data:
+    input:
+      - 测试一下
+      - !!python/tuple
+        - "css selector"
+        - '[id="kw"]'
+    wait: 2
+    click: !!python/tuple ["css selector", '[id="su"]']
+  Expected:
+    result: 预期结果是这个
+
+-
+  testcasename: 这是第三个测试用例
+  data:
+    input:
+      - 测试一下
+      - !!python/tuple
+        - "css selector"
+        - '[id="kw"]'
+    wait: 2
+    click: !!python/tuple ["css selector", '[id="su"]']
+  Expected:
+    result: 预期结果是这个
+
+-
+  testcasename: 这是第四个测试用例
+  data:
+    input:
+      - 测试一下
+      - !!python/tuple
+        - "css selector"
+        - '[id="kw"]'
+    wait: 2
+    click: !!python/tuple ["css selector", '[id="su"]']
+  Expected:
+    result: 预期结果是这个
+#
+#-
+#  testcasename: 这是第五个测试用例
+#  data:
+#    input:
+#      - 测试一下
+#      - !!python/tuple
+#        - "css selector"
+#        - '[id="kw"]'
+#    wait: 2
+#    click: !!python/tuple ["css selector", '[id="su"]']
+#  Expected:
+#    result: 预期结果是这个
+#
+#-
+#  testcasename: 这是第六个测试用例
+#  data:
+#    input:
+#      - 测试一下
+#      - !!python/tuple
+#        - "css selector"
+#        - '[id="kw"]'
+#    wait: 2
+#    click: !!python/tuple ["css selector", '[id="su"]']
+#  Expected:
+#    result: 预期结果是这个
+#
+#-
+#  testcasename: 这是第七个测试用例
+#  data:
+#    input:
+#      - 测试一下
+#      - !!python/tuple
+#        - "css selector"
+#        - '[id="kw"]'
+#    wait: 2
+#    click: !!python/tuple ["css selector", '[id="su"]']
+#  Expected:
+#    result: 预期结果是这个
+#
+#-
+#  testcasename: 这是第八个测试用例
+#  data:
+#    input:
+#      - 测试一下
+#      - !!python/tuple
+#        - "css selector"
+#        - '[id="kw"]'
+#    wait: 2
+#    click: !!python/tuple ["css selector", '[id="su"]']
+#  Expected:
+#    result: 预期结果是这个
+#
+#-
+#  testcasename: 这是第九个测试用例
+#  data:
+#    input:
+#      - 测试一下
+#      - !!python/tuple
+#        - "css selector"
+#        - '[id="kw"]'
+#    wait: 2
+#    click: !!python/tuple ["css selector", '[id="su"]']
+#  Expected:
+#    result: 预期结果是这个
+#
+#-
+#  testcasename: 这是第十个测试用例
+#  data:
+#    input:
+#      - 测试一下
+#      - !!python/tuple
+#        - "css selector"
+#        - '[id="kw"]'
+#    wait: 2
+#    click: !!python/tuple ["css selector", '[id="su"]']
+#  Expected:
+#    result: 预期结果是这个
+#-
+#  testcasename: 这是第十一个测试用例
+#  data:
+#    input:
+#      - 测试一下
+#      - !!python/tuple
+#        - "css selector"
+#        - '[id="kw"]'
+#    wait: 2
+#    click: !!python/tuple ["css selector", '[id="su"]']
+#  Expected:
+#    result: 预期结果是这个
+#
+#-
+#  testcasename: 这是第十二个测试用例
+#  data:
+#    input:
+#      - 测试一下
+#      - !!python/tuple
+#        - "css selector"
+#        - '[id="kw"]'
+#    wait: 2
+#    click: !!python/tuple ["css selector", '[id="su"]']
+#  Expected:
+#    result: 预期结果是这个

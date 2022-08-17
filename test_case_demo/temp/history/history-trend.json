@@ -1,0 +1,85 @@
+[ {
+  "buildOrder" : 28,
+  "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/28/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 3,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
+  "buildOrder" : 27,
+  "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/27/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 3,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
+  "buildOrder" : 26,
+  "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/26/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 3,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
+  "buildOrder" : 25,
+  "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/25/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 3,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
+  "buildOrder" : 24,
+  "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/24/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 3,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
+  "buildOrder" : 23,
+  "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/23/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 3,
+    "broken" : 4,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
+  "buildOrder" : 22,
+  "reportUrl" : "http://localhost:8080/job/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90_demo/22/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 3,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 8
+  }
+} ]
